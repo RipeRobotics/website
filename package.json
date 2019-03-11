@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/RipeRobotics/landing#readme",
   "dependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.0.1",
+    "semantic-ui-react": "^0.85.0"
   }
 }
