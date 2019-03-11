@@ -1,0 +1,24 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gp-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RipeRobotics/landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RipeRobotics/landing/issues"
+  },
+  "homepage": "https://github.com/RipeRobotics/landing#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
