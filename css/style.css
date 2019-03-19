@@ -544,3 +544,22 @@ textarea {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+
+.farm-image-container {
+text-align: center;
+
+}
+
+.farm-image {
+  /* position: relative; */
+  /* float: left; */
+  width:  250px;
+  height: 250px;
+  background-position: 50% 50%;
+  background-repeat:   no-repeat;
+  background-size:     cover;
+  border-radius: 5px;
+  margin-left: 25px;
+  box-shadow: grey 10px 10px 10px;
+}
