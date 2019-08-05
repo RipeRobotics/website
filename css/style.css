@@ -4,7 +4,7 @@ html {
 body {
   font-family: "Raleway", sans-serif;
   line-height: 1.8;
-  font-size: 16px;
+  font-size: 1rem;
   background: #fff;
   color: #859196; }
 
@@ -18,8 +18,8 @@ a {
     color: #4586FF; }
 
 h1, h2, h3, h4, h5,
-.h1, .h2, .h3, .h4, .h5 {
-  line-height: 1.45;
+h1, h2, h3, h4, h5 {
+  line-height: 1;
   font-weight: normal;
   }
 
@@ -28,7 +28,8 @@ h1, h2, h3, h4, h5,
 }
 
 .text-primary {
-  color: #4586FF !important; }
+  color: #4586FF !important; 
+  }
 
 .ftco-navbar-light {
   background: transparent !important;
