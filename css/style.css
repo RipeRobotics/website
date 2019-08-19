@@ -582,4 +582,8 @@ text-align: center;
 
 .main-form {
   text-align: center;
+  background-color: blue;
+  margin: 0 200px;
+  display: flex;
+  justify-content: space-around;
 }
