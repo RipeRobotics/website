@@ -564,3 +564,26 @@ text-align: center;
   box-shadow: grey 10px 10px 10px;
 }
 
+
+
+.boxed-image {
+  width: 20em;
+}
+
+.flex-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-top {
+  width: 30px;
+}
+
+
+.main-form {
+  text-align: center;
+  
+  margin: 0 100px;
+  /* display: flex; */
+  justify-content: space-around;
+}
