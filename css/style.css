@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5,
   color: #4586FF !important; }
 
 .ftco-navbar-light {
-  background: transparent !important;
+  background: ;
   position: absolute;
   left: 0;
   right: 0;
@@ -564,3 +564,26 @@ text-align: center;
   box-shadow: grey 10px 10px 10px;
 }
 
+
+
+.boxed-image {
+  width: 20em;
+}
+
+.flex-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-top {
+  width: 30px;
+}
+
+
+.main-form {
+  text-align: center;
+  
+  margin: 0 100px;
+  /* display: flex; */
+  justify-content: space-around;
+}
