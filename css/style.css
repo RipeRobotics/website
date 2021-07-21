@@ -39,8 +39,8 @@ h1, h2, h3, h4, h5,
       position: relative; } }
   .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
     font-size: 16px;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     padding-left: 20px;
     padding-right: 20px; }
     @media screen and (max-width: 960px) {
@@ -286,8 +286,11 @@ textarea {
     background: #f2f2f2 !important; }
 
 .ftco-bg-dark {
-  background: #263135; }
+/*   background: #263135; } */
+  background: #000000d6!important; }
 
+  
+  
 .ftco-footer {
   font-size: 16px; }
   .ftco-footer .ftco-footer-logo {
