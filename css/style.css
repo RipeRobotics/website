@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5,
   color: #4586FF !important; }
 
 .ftco-navbar-light {
-  background: ;
+  background: #fff;
   position: absolute;
   left: 0;
   right: 0;
@@ -286,8 +286,7 @@ textarea {
     background: #f2f2f2 !important; }
 
 .ftco-bg-dark {
-/*   background: #263135; } */
-  background: #000000d6!important; }
+  background: #263135; }
 
   
   
@@ -589,4 +588,9 @@ text-align: center;
   margin: 0 100px;
   /* display: flex; */
   justify-content: space-around;
+}
+
+
+.bg-dark-seethrough {
+  background-color: rgba(0, 0, 0, 0.582)!important;
 }
